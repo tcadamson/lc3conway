@@ -1,0 +1,6 @@
+backups
+*.bin
+*.hex
+*.lst
+*.obj
+*.sym
